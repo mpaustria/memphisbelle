@@ -27,6 +27,8 @@ html, body {
     background-color: #808000;
     padding: 28px;
     text-align: center;
+    height: 10%;
+    width: 100%;
 }
 .banner .container h1{
     font-family: Hightide, sans-serif;
