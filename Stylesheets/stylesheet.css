@@ -184,8 +184,8 @@ div.sidebar2 a {
 }
 /*Individual image properties*/
 .homePageImage {
-    height: 400px;
-    width: 400px;
+    height: 80%;
+    width: 90%;
 }
 
 /*Paragraph that goes below pictures*/
