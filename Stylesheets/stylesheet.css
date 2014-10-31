@@ -1,7 +1,7 @@
 @charset "UTF-8";
 * {
     margin: 0;    
-    font-family: Animated, sans-serif;
+    font-family: BndyYlwHS, sans-serif;
     color: black
 }
 
@@ -190,7 +190,7 @@ div.sidebar2 a {
 
 /*Paragraph that goes below pictures*/
 .content p {
-    font-family: Animated, sans-serif;
+    font-family: BndyYlwHS, sans-serif;
     font-size: 1.875em;
     text-indent: 2em;
     padding-top: 10px;
@@ -208,7 +208,7 @@ figure {
     text-align: center;
 }
 .videosfont {
-    font-family: Animated, sans-serif;
+    font-family: BndyYlwHS, sans-serif;
     font-size: 30px;
 }
 .contacts {
