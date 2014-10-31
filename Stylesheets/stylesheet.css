@@ -14,8 +14,8 @@ html, body {
     position: relative;
     min-height: 100%;
     height: auto !important;
-    height: 100%;
-    width: 100%;
+    height: 80%;
+    width: 90%;
     overflow: hidden;
 }
 .footer {
@@ -185,7 +185,7 @@ div.sidebar2 a {
 /*Individual image properties*/
 .homePageImage {
     height: cover;
-    width: cover;
+    width: 100%;
 }
 
 /*Paragraph that goes below pictures*/
