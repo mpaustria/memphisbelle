@@ -46,6 +46,7 @@ html, body {
     min-width: 200px;
     background-color: #5f6000;
     overflow: hidden;
+    margin: 24px;
 }
 
 .sidebar .container {
