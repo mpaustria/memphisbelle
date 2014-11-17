@@ -159,7 +159,7 @@ div.sidebar2 a {
 /* Footer----------- */
 .push {
     height: 4em;
-    text-overflow: inherit;
+    overflow: hidden;
 }
 
 .footer {
