@@ -1,8 +1,4 @@
 @charset "UTF-8";
-@font-face {
-    font-family: "MilitaryFont";
-    src: url('../Fonts/BndyYlwHS.ttf') format('truetype');
-}
 * {
     margin: 0;    
     color: black
@@ -196,7 +192,6 @@ div.sidebar2 a {
 
 /*Paragraph that goes below pictures*/
 .content p {
-    font-family: BndyYlwHS, sans-serif;
     font-size: 1.875em;
     text-indent: 2em;
     padding-top: 10px;
@@ -213,9 +208,6 @@ figure {
     margin-right: 0px;
     text-align: center;
 }
-.videosfont {
-    font-family: BndyYlwHS, sans-serif;
-    font-size: 30px;
 }
 .contacts {
     height: 200px;
