@@ -49,7 +49,7 @@ html, body {
     min-width: 200px;
     background-color: #5f6000;
     overflow: hidden;
-    border-right: 10px;
+    border-left: 10px;
 }
 
 .sidebar .container {
