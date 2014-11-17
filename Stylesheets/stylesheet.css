@@ -189,8 +189,8 @@ div.sidebar2 a {
 }
 /*Individual image properties*/
 .homePageImage {
-    height: cover;
-    width: cover;
+    height: 100%;
+    width: 100%;
     overflow: hidden;
 }
 
