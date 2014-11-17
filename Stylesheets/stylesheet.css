@@ -107,8 +107,6 @@ div.sidebar2 a {
     margin: 0px;
     width: 80%;
     color: black;
-    height: 1920px;
-    width: 1200;
     
 }
 
@@ -180,7 +178,7 @@ div.sidebar2 a {
 }
 .content { /*Div containing all of the content (Not the nav bar or banner)*/
     margin: 0px;
-    float: right;
+    float: left;
     width: 75%;
 }
 
