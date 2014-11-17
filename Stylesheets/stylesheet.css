@@ -158,7 +158,7 @@ div.sidebar2 a {
 
 /* Footer----------- */
 .push {
-    height: 6em;
+    height: 10%;
 }
 
 .footer {
@@ -189,7 +189,7 @@ div.sidebar2 a {
 }
 /*Individual image properties*/
 .homePageImage {
-    height: 10%;
+    height: 90%;
     width: 120%;
     overflow: hidden;
 }
