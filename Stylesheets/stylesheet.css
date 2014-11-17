@@ -39,8 +39,8 @@ html, body {
 .sidebar {
     position: absolute;
     float: left;
-    height: 120%;
-    min-height: 100%;
+    height: cover;
+    min-height: cover;
     width: 10%;
     min-width: 200px;
     background-color: #5f6000;
