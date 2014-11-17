@@ -104,7 +104,7 @@ div.sidebar2 a {
 /*-----------Page Content-----------------*/
 .content { /*Div containing all of the content (Not the nav bar or banner)*/
     float: right;
-    margin: 20px;
+    margin: 0px;
     width: 80%;
     color: black;
     
