@@ -133,7 +133,7 @@ div.sidebar2 a {
 }
 
 .content .container #aboutmePic {
-    float: left;
+    float: inherit;
     margin: 30px;
     height: 469.5px;
     width: 315px;
