@@ -177,7 +177,7 @@ div.sidebar2 a {
     color: #6a6afd;
 }
 .content { /*Div containing all of the content (Not the nav bar or banner)*/
-    margin: 20px;
+    margin: 0px;
     float: right;
     width: 75%;
 }
