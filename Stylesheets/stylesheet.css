@@ -31,7 +31,7 @@ html, body {
     margin: 0px;
 }
 .banner .container h1{
-    font-family: "MilitaryFont", sans-serif;
+    font-family: "Black Ops", sans-serif;
     font-size: 2.8em
 }
 /*---------------Sidebar------------------*/
@@ -62,7 +62,7 @@ html, body {
     text-decoration: none;
     color: black;
     font-size: 1.5em;
-    font-family: ModerneSans, sans-serif;
+    font-family: "Black Ops", sans-serif;
 }
 div.sidebar2 {
     position: absolute;
@@ -88,7 +88,7 @@ div.sidebar2 a {
     text-decoration: none;
     color: black;
     font-size: 1.5em;
-    font-family: ModerneSans, sans-serif;
+    font-family: "Black Ops", sans-serif;
 }
 }
 .clearfloat {
