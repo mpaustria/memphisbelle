@@ -31,7 +31,7 @@ html, body {
     margin: 0px;
 }
 .banner .container h1{
-    font-family: 'Black Ops', sans-serif;
+    font-family: 'Black Ops One', sans-serif;
     font-size: 2.8em
 }
 /*---------------Sidebar------------------*/
@@ -51,6 +51,7 @@ html, body {
 .sidebar .container {
     margin-right: 0px;
     text-align: center;
+    font-family: "Black Ops One";
 }
 
 .sidebar li {
@@ -62,7 +63,7 @@ html, body {
     text-decoration: none;
     color: black;
     font-size: 1.5em;
-    font-family: 'Black Ops', sans-serif;
+    font-family: 'Black Ops One', sans-serif;
 }
 div.sidebar2 {
     position: absolute;
@@ -88,7 +89,7 @@ div.sidebar2 a {
     text-decoration: none;
     color: black;
     font-size: 1.5em;
-    font-family: 'Black Ops', sans-serif;
+    font-family: 'Black Ops One', sans-serif;
 }
 }
 .clearfloat {
@@ -161,11 +162,13 @@ div.sidebar2 a {
     background-color: #0D7F40;
     clear: both;
     width: 100%;
+    font-family: "Black Ops One"
 }
 
 .footer .container {
     text-align: center;
     padding: 20px;
+    font-family: "Black Ops One"
 }
 
 .footer a {
