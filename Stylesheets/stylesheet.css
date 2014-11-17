@@ -1,7 +1,10 @@
 @charset "UTF-8";
+@font-face {
+    font-family: "MilitaryFont";
+    src: url('../Fonts/BndyYlwHS.ttf') format('truetype');
+}
 * {
     margin: 0;    
-    font-family: Animated, sans-serif;
     color: black
 }
 
@@ -31,10 +34,9 @@ html, body {
     width: 100%;
 }
 .banner .container h1{
-    font-family: Hightide, sans-serif;
+    font-family: "MilitaryFont", sans-serif;
     font-size: 2.8em
 }
-
 /*---------------Sidebar------------------*/
 
 .sidebar {
@@ -46,10 +48,13 @@ html, body {
     min-width: 200px;
     background-color: #5f6000;
     overflow: hidden;
+    border: 10px;
+    margin: 10px;
 }
 
 .sidebar .container {
     margin-right: 30px;
+    text-align: center;
 }
 
 .sidebar li {
