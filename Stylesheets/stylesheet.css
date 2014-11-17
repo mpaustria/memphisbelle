@@ -178,7 +178,7 @@ div.sidebar2 a {
 }
 .content { /*Div containing all of the content (Not the nav bar or banner)*/
     margin: 0px;
-    float: left;
+    float: center;
     width: 75%;
 }
 
