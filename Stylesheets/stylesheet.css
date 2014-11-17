@@ -190,7 +190,7 @@ div.sidebar2 a {
 /*Individual image properties*/
 .homePageImage {
     height: 100%;
-    width: 150%;
+    width: 100%;
     overflow: hidden;
 }
 
